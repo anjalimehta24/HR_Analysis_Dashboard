@@ -5,3 +5,4 @@ Imported the CSV file and performed activities like removing duplicates, fixing 
 𝗞𝗲𝘆 𝗜𝗻𝘀𝗶𝗴𝗵𝘁𝘀 :
 1. Gender Distribution by Department is that Male Count is highest in Human Resource Department i.e 𝟳𝟳% and Female Count is highest in        Sales Department i.e 𝟰𝟴%.
 2. Gender Distribution be Job Role is that Male Count is lowest in Manufacturing Director role i.e 𝟱𝟬% and Female Count is lowest in Human    Resource role i.e 𝟯𝟭%.
+3. In the Research Scientist Role, 25-34 age group have the highest number of Employees and the Healthcare Representative have the lowest      number of employees which are of the Age Group of Below 25. 
